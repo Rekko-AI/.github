@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://rekko.ai/logo-dark.svg" alt="Rekko AI" height="48" />
+  <img src="https://raw.githubusercontent.com/Rekko-AI/.github/main/profile/logo-dark.svg" alt="Rekko AI" height="48" />
 </h1>
 
 <p align="center">
