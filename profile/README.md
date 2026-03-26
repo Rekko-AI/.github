@@ -24,7 +24,7 @@ Rekko AI runs multi-stage research pipelines that produce probability estimates,
 |------|-------------|---------|
 | [**rekko-mcp**](https://github.com/Rekko-AI/rekko-mcp) | MCP server — 25 tools for Claude Code, Cursor, Windsurf | `uvx rekko-mcp` |
 | [**rekko-skill**](https://github.com/Rekko-AI/rekko-skill) | OpenClaw skill for autonomous trading agents | `npx skills add Rekko-AI/rekko-skill` |
-| [**docs**](https://github.com/Rekko-AI/docs) | API documentation at [docs.rekko.ai](https://rekko.ai/docs) | — |
+| [**docs**](https://github.com/Rekko-AI/docs) | API documentation at [rekko.ai/docs](https://rekko.ai/docs) | — |
 
 ### Get Started
 
